@@ -4,7 +4,8 @@
 // Hello Worldを表示する関数
 void DrawHelloWorld()
 {
-	printf("HelloWorld\n");
+	printf("HelloWorld!\n");
+	printf("ハローワールド!  (ローカル）\n");
 }
 
 int main()
