@@ -5,7 +5,6 @@
 void DrawHelloWorld()
 {
 	printf("HelloWorld\n");
-	printf("ハローワールド！(WebUI)\n”);
 }
 
 int main()
